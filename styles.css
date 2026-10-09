@@ -21,3 +21,9 @@ button {
   padding: 8px;
   border-radius: 8px;
 }
+#datetime {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  border: 1px solid grey;
+}
